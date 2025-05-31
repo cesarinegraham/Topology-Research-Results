@@ -1,5 +1,5 @@
 # Topology-Research-Results
-Original research materials created during time at MSU's Summer Topology Internship.
+Original research materials were created during MSU's Summer Topology Internship, 2023.
 
-The research project was centered around Exotic Manifolds and their correlation to Superstring Theory.
+The research project focuses on Exotic Manifolds and their correlation to Superstring Theory.
 Attached to this repository are the resulting presentation slides and expository paper.
